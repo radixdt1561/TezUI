@@ -27,7 +27,6 @@ defineProps<{ data: any }>();
               </li>
               <li><a>Item 3</a></li>
             </ul>
-            <selectTheme/>
           </div>
         </div>
       </TezLazy>
