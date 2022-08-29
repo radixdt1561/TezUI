@@ -1,10 +1,5 @@
 <template>
 <div>
-  <div class="p-10 bg-red-500">
-    <div class="container bg-white">
-      <h1>sadasddasd</h1>
-    </div>
-  </div>
   <div class="bg-gradient-to-b from-[#101212] relative to-[#08201D]">
     <header class="absolute inset-x-0 top-0 z-10 w-full">
         <div class="px-4 mx-auto sm:px-6 lg:px-8">
@@ -55,11 +50,11 @@
         <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative z-20">
             <div class="max-w-xl mx-auto text-center">
                 <h1 class="text-4xl font-bold sm:text-6xl">
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-white"> Simplified credit cards for students </span>
+                    <span class="bg-clip-text bg-gradient-to-r from-grt to-grfrm text-transparent"> Simplified credit <strong class="font-extrabold text-primary sm:block">cards for students</strong> </span>
                 </h1>
                 <p class="mt-5 text-base text-white sm:text-xl">No more hassle taking loans and making payments. Try Postcrats credit card, make your life simple.</p>
 
-                <a href="#" title="" class="inline-flex items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 bg-blue-600 rounded-lg sm:mt-16 hover:bg-blue-700 focus:bg-blue-700" role="button">
+                <a href="#" title="" class="inline-flex items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 bg-primary rounded-lg sm:mt-16 hover:bg-secondary focus:bg-secondary" role="button">
                     Apply for free
                     <svg class="w-6 h-6 ml-8 -mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -500,11 +495,7 @@
     </div>
   </div>
 </section>
-<div class="flex flex-col space-y-4">
-  <div>01</div>
-  <div>02</div>
-  <div>03</div>
-</div>
+
 </div>
 
 </template>

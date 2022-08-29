@@ -18,7 +18,7 @@ import { themeChange } from 'theme-change'
 export default {
  data() {
   return {
-   themes: ['mytheme1', 'mytheme2'],
+   themes: ['mytheme1', 'mytheme2', 'mytheme3', 'mytheme4'],
    key: '',
   }
  },
